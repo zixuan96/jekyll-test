@@ -1,6 +1,6 @@
 # Agency Jekyll Theme | [Preview](https://zixuan96.github.io/jekyll-test/)
 
-This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/) converted to a gem-based Jekyll theme with GitHub Pages support. Thanks to @raviriley. This version also added a lot of new features that go beyond the original theme's capabilities:
+This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/) converted to a gem-based Jekyll theme with GitHub Pages support. Thanks to [raviriley](https://github.com/raviriley), we can have new features that go beyond the original theme's capabilities:
 
 -   GitHub Pages support
 -   contact form functionality powered by [Formspree.io](https://formspree.io)
@@ -20,12 +20,10 @@ This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/) 
 The Jekyll structure of this theme includes:
 
 -   `_portfolio` files - what generate the portfolio grid. YAML front matter handles all the details
--   the `page` layout allows custom pages, as seen in the legal and 404 pages
+-   `page` layout allows custom pages, as seen in the legal and 404 pages
 -   `sitetext.yml` enables complete customization of all site text
 -   `navigation.yml` enables fully customizable navigation
 -   `style.yml` enables fully customizable colors, background images, and other style-related things
-
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
 
 ## Installation
 
